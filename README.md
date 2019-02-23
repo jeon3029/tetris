@@ -12,7 +12,7 @@ Building
 
 My dependencies are:
 
-* `libsdl` and `libsdl_mixer` 1.2 for sound.
+* `libsdl2` and `libsdl2_mixer` 1.2 for sound.
 * `ncurses` for terminal manipulation.
 
 To install them on Arch Linux:
